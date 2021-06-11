@@ -1,12 +1,11 @@
 <h1>MEMBERS CLUB HOUSE</h1>
 
 <% @posts.each do |post| %> 
-
-    <h3> <%= post.title %></h3>
+  <h3> <%= post.title %></h3>
     <p> <%= post.body %></p>
-<% if user_signed_in? %>
-  <p> Username: <%= post.user.username%></p>
-<% end %>
+   <% if user_signed_in? %>
+        <p> Email: <%= post.user.email%></p>
+   <% end %>
 <% end%>
 
 <p><%= link_to 'Sign Out',  destroy_user_session_path, method: :delete %></p>
@@ -16,3 +15,5 @@
 <p><%= link_to 'New post', new_post_path %></p>
 
 <p><%= link_to 'LOG IN',   new_user_session_path %></p>
+
+

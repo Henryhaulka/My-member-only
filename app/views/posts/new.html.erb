@@ -1,0 +1,19 @@
+<h1>this is a new  post page</h1>
+
+<%=form_with model: @post do |f|%>
+
+  <div class="field">
+    <%= f.label :title %><br />
+    <%= f.text_field :title, autofocus: true, autocomplete: "body" %>
+  </div>
+  <div class="field">
+    <%= f.label :body %><br />
+    <%= f.text_area :body, autofocus: true, autocomplete: "body" %>
+  </div>
+
+
+    <div class="actions">
+    <%= f.submit "Submit post" %>
+  </div>
+  <% end %>
+  

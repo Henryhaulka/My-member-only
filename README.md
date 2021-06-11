@@ -1,6 +1,6 @@
 ## My-member-only
 In this project, we built an exclusive clubhouse where our members can write anonymous posts. Inside the clubhouse, members can see the mail of the author of a post is but, outside, they can only see the story and wonder who wrote it.
-This is part of the "Memebrs Only!" Project in The Odin Project’s Ruby on Rails Curriculum. Find it at [Project:Forms](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-on-rails/lessons/authentication)
+This is part of the "Members Only!" Project in The Odin Project’s Ruby on Rails Curriculum. Find it at [Project: Forms](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-on-rails/lessons/authentication)
 
 ## Built with
 - Ruby on Rails
@@ -11,12 +11,12 @@ Clone this repository to get a copy of this project.
 - Run `git clone https://github.com/Henryhaulka/My-member-only.git
 - Open the project with your favorite code editor.
 
-You can also open the github repo [Repo link](https://github.com/Henryhaulka/My-member-only)
+You can also open the GitHub repo [Repo link](https://github.com/Henryhaulka/My-member-only)
 - Click on the green 'Code' button and 'Download ZIP'
-- Unpack it in desire file in your machine
+- Unpack it in the desired file in your machine
 
 ## Installation
-After cloning the repo, you also need to install the required gems in your machine
+After cloning the repo, you also need to install the required gems on your machine
 - Run `bundle install` to install the dependencies
 - Run `rails db:create` and `rails db:migrate` to create required database tables
 - Run `rails server` to start this app on the local server

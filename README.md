@@ -24,11 +24,12 @@ After cloning the repo, you also need to install the required gems on your machi
 
 ## Authors
 
-👤 **Peter Mbuthia**
+👤 **HENRY ONU**
 
-- GitHub: [@Blakbox23](https://github.com/blakbox23)
-- Twitter: [@blakbox23](https://twitter.com/blakbox23)
-- LinkedIn: [Peter Mbuthia](https://www.linkedin.com/in/peter-mbuthia)
+- GitHub: [@githubhandle](https://github.com/Henryhaulka)
+- Twitter: [@twitterhandle](https://twitter.com/ONUHENRY12)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/henry-onu)
+
 
 👤 **Aleksandar Ivezic**
 
